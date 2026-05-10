@@ -1,4 +1,4 @@
-# Bitmap + Mantissa-Borrow BF16 Weight Compression
+# Delta BF16 Weight Compression
 
 Lossless-ish compression of BF16 LLM weights by exploiting the narrow exponent distribution within local weight windows.
 

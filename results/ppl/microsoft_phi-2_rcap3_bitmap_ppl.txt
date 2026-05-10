@@ -1,0 +1,6 @@
+Model: microsoft_phi-2  r_cap=3  scheme=bitmap+mantissa-borrow
+Baseline PPL: 8.194
+
+     W    saved%    ppl_orig    ppl_comp      Δppl      %inc
+--------------------------------------------------------------
+  4096    24.99%       8.194       8.226    +0.032    +0.39%

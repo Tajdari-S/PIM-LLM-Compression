@@ -1,0 +1,6 @@
+Model: Qwen_Qwen2.5-7B  r_cap=4  scheme=bitmap+mantissa-borrow
+Baseline PPL: 5.012
+
+     W    saved%    ppl_orig    ppl_comp      Δppl      %inc
+--------------------------------------------------------------
+  4096    18.74%       5.012       5.012    +0.000    +0.00%

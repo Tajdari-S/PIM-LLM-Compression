@@ -1,0 +1,6 @@
+Model: TinyLlama_TinyLlama-1.1B-Chat-v1.0  r_cap=3  scheme=bitmap+mantissa-borrow
+Baseline PPL: 6.489
+
+     W    saved%    ppl_orig    ppl_comp      Δppl      %inc
+--------------------------------------------------------------
+  4096    24.99%       6.489       6.504    +0.015    +0.23%

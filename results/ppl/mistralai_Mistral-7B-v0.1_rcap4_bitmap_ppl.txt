@@ -1,0 +1,6 @@
+Model: mistralai_Mistral-7B-v0.1  r_cap=4  scheme=bitmap+mantissa-borrow
+Baseline PPL: 4.352
+
+     W    saved%    ppl_orig    ppl_comp      Δppl      %inc
+--------------------------------------------------------------
+  4096    18.74%       4.352       4.355    +0.003    +0.06%

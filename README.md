@@ -1,4 +1,4 @@
-All the artifacts are present in the anonymized google drive version at the following [link]([url]https://drive.google.com/drive/folders/1hBkP7wxf4hCBdgrJligxMQS1EVQ37Vem?usp=sharing/)
+All the artifacts are present in the anonymized google drive version at the following [link](https://drive.google.com/drive/folders/1hBkP7wxf4hCBdgrJligxMQS1EVQ37Vem?usp=sharing/)
 
 
 
